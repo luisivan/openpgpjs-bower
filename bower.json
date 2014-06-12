@@ -1,0 +1,28 @@
+{
+  "name": "openpgp",
+  "version": "0.6.0",
+  "homepage": "http://openpgpjs.org",
+  "authors": [
+    "Luis Iván <me@luisivan.net>"
+  ],
+  "description": "OpenPGP.js is a Javascript implementation of the OpenPGP protocol. This is defined in RFC 4880.",
+  "main": "dist/openpgp.min.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "openpgp",
+    "crypto"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "README.md",
+    "LICENSE"
+  ]
+}
